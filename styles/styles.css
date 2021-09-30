@@ -1,0 +1,35 @@
+p {
+  font-family: "Roboto Mono", monospace;
+}
+
+h1 {
+  font-family: "Roboto Mono", monospace;
+}
+
+button {
+  font-family: "Roboto Mono", monospace;
+}
+
+.btn-1 {
+  -webkit-transition: 1s;
+  transition: 1s;
+  background-color: aquamarine;
+}
+
+.btn-1:hover {
+  -webkit-transition: 1s;
+  transition: 1s;
+  background-color: red;
+}
+
+.btn-1:active {
+  -webkit-transition: 1s;
+  transition: 1s;
+  background-color: skyblue;
+}
+
+img {
+  width: 150px;
+}
+/*# sourceMappingURL=styles.css.map */
+/* DONE: This CSS has been finnished and wrapped up! */

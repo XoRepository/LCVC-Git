@@ -1,0 +1,28 @@
+p {
+  font-family: "Roboto Mono", monospace;
+}
+
+h1 {
+  font-family: "Roboto Mono", monospace;
+}
+
+button {
+  font-family: "Roboto Mono", monospace;
+}
+
+.btn-1 {
+  transition: 1s;
+  background-color: aquamarine;
+  &:hover {
+    transition: 1s;
+    background-color: red;
+  }
+  &:active {
+    transition: 1s;
+    background-color: skyblue;
+  }
+}
+
+img {
+  width: 150px;
+}
